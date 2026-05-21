@@ -33,7 +33,7 @@ When I'm not working with data, I enjoy playing pool,taking walks,reading, watch
 - Data workflows
 - PowerBi dashboard development
 
-## 🛠️ Technical Skillset
+##  Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
