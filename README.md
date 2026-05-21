@@ -21,7 +21,7 @@ When I'm not working with data, I enjoy playing pool,taking walks,reading, watch
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://KgomotsoMokhoro.github.io/)
       
-## 🔭 What I'm Currently Working On 
+##  What I'm Currently Working On 
 
 - **Project A:** Currently building SQL-based supply chain analytics projects focused on inventory visibility,data cleaning, and operational insights  
 
