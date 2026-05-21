@@ -12,7 +12,7 @@
   <a href="mailto:mokhoro59@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+##  About Me 
 I'm an aspiring supply chain analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 Through projects using SQL, Excel, and Power BI, Im developing the ability to clean,analyse, and visualise operational data to support smarter business decisions.
@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy playing pool,taking walks,reading, watch
 
 
 
-## 🌱 Currently Learning 
+##  Currently Learning 
 
 - Adnvanced SQL 
 - Data workflows
