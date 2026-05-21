@@ -51,5 +51,4 @@ When I'm not working with data, I enjoy playing pool,taking walks,reading, watch
   <img src="https://img.shields.io/badge/Supply%20Chain%20Analytics-Beginner-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Data%20Analytics%20and%20Visiualisation-Beginner-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Process%20Improvement%20and%20Operations-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+ 
