@@ -15,7 +15,7 @@
 ##  About Me 
 I'm an aspiring supply chain analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, complex datasets into clear stories and actionable insights.
 
-Through projects using SQL, Excel, and Power BI, Im able to clean,analyse, and visualise operational data to support smarter business decisions.
+Through projects using SQL, Excel, and Power BI, Im able to clean,analyse, and visualise operational data to support smarter business decisions and strategy objectives.
 When I'm not working with data, I enjoy playing pool,taking walks,reading, watching anime. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
