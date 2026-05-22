@@ -29,7 +29,7 @@ When I'm not working with data, I enjoy playing pool,taking walks,reading, watch
 
 ##  Currently Learning 
 
-- Adnvanced SQL 
+- Advanced SQL 
 - Data workflows
 - PowerBi dashboard development
 
